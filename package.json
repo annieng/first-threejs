@@ -1,0 +1,19 @@
+{
+  "name": "first-three",
+  "version": "1.0.0",
+  "description": "first threejs animation test",
+  "main": "three.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "threejs",
+    "three",
+    "animation"
+  ],
+  "author": "annie yt ng",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.89.0"
+  }
+}
